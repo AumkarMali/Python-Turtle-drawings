@@ -1,2 +1,4 @@
 # Python-Turtle-drawings
-these are drawings I made using python turtle!
+These are drawings I made using python turtle!
+
+Modules needed: Python Turtle (pip install turtle)
